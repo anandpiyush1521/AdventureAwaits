@@ -1,2 +1,0 @@
-# AdventureAwaits
-Travel Website
